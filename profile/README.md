@@ -58,4 +58,4 @@ The interactive wizard configures auth, payments, and storage in under 5 minutes
 
 ---
 
-**[Website](https://codapult.dev)** · **[Live Demo](https://demo.codapult.dev)** · **[Docs](https://codapult.dev/docs)** · **[Pricing](https://codapult.dev/#pricing)**
+**[Website](https://codapult.dev)** · **[Live Demo](https://demo.codapult.dev)** · **[Docs](https://codapult.dev/docs)** · **[Blog](https://codapult.dev/blog)** · **[Compare](https://codapult.dev/compare)** · **[Pricing](https://codapult.dev/#pricing)**
