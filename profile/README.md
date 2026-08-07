@@ -50,7 +50,7 @@ JOB_PROVIDER=bullmq             # memory | bullmq
 
 ### Quick start
 
-```bash
+```shell
 npx create-codapult my-app
 ```
 
