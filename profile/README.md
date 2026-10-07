@@ -51,7 +51,7 @@ JOB_PROVIDER=bullmq             # memory | bullmq
 ### Quick start
 
 ```shell
-npx create-codapult my-app
+npx @codapult/create my-app
 ```
 
 The interactive wizard configures auth, payments, and storage in under 5 minutes.
