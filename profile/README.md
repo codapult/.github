@@ -1,6 +1,6 @@
 # Codapult
 
-**The modular Next.js SaaS boilerplate with auth, payments, teams, admin, AI, and infrastructure already wired together.**
+**Next.js SaaS Boilerplate & Starter Kit for MVPs, team-based B2B products and AI-powered applications, with modular architecture, auth, payments, teams, admin, AI, and infrastructure already wired together.**
 
 Auth, billing, teams, admin panel, AI layer, SSO, and infrastructure work as one system out of the box. Start lean with only the modules your MVP needs, then scale without rebuilding the foundation.
 
